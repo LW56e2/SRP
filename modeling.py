@@ -3,9 +3,6 @@ from scipy.optimize import curve_fit
 import matplotlib.pyplot as plt
 
 
-import scipy
-
-
 d = np.array([
     10,
     11.5,
